@@ -3,10 +3,10 @@
 
 $servername="db4free.net";
 $username = "juhosi";
-$password = "juhosi123";
+$password = "";
 $dbName= "juhosi";
 
-$conn = mysqli_connect("db4free.net","juhosi","juhosi123" ,"juhosi");
+$conn = mysqli_connect("db4free.net","juhosi","" ,"juhosi");
 
 
 ?>
